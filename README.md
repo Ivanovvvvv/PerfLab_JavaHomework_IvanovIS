@@ -1,5 +1,5 @@
 # PerfLab_JavaHomework_IvanovIS
-Jar библитеки находится в папке src/lib. Можно добавить зависимость через intellij idea: 
+Jar библитекf находится в папке src/lib. Можно добавить зависимость через intellij idea: 
 project structure -> modules -> dependencies -> + ->  src/lib/Jar файл -> apply -> ok 
 или можно прописать в pom следующую зависисмость:
 ```xml
